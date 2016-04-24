@@ -1,0 +1,7 @@
+Non Personalized Recommender System includes, summary of statistics
+rather than targeting
+any user preferences. It is recommendation of community.
+(1)  First part contains the average rating of top five movie.
+(2)  Top five highest number of rated movies.
+(3)  Top five movies with 4+ rating
+(4)  Rating of other movies when Star-wars has rated(Context Included)
